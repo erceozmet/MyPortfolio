@@ -1,0 +1,19 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "description": "Erce Ozmetin personal portfolio web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erceozmet/portfolio.github.io.git"
+  },
+  "author": "Erce Ozmetin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erceozmet/portfolio.github.io/issues"
+  },
+  "homepage": "https://github.com/erceozmet/portfolio.github.io#readme"
+}
